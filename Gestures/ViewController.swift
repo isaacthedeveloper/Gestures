@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var gestureLabel: UILabel!
     @IBOutlet weak var rectangleView: UIView!
     
-    let longPressText = "Let go of me"
+    let longPressText = "Let go of me OR EKSE"
     let swipeText = "You swiped me"
     let edgePanText = "Edge Pan"
     
